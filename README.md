@@ -6,7 +6,7 @@ Windmill modelling in OpenGL and C++.
 To install the dependencies related to OpenGL refer to the
 <a href="http://www.prinmath.com/csci5229/misc/install.html">**link**</a>
 ## Steps to execute the program
-### Linux
+### For Linux
 1. Open **Terminal** or any terminal emulator(**Terminator** etc)
 2. *Change* the directory to location of **windmill.cpp**
 3. *Run* <code> g++ windmill.cpp -lglut -lGL -lGLU -o windmill </code>
